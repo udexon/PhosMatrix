@@ -1,7 +1,8 @@
 # PhosMatrix
-PhosMatrix
 
-From World Wide Web to Man Machine Matrix: Transforming the Web with Transient Key Cryptography and Metashellet
+- From World Wide Web to Man Machine Matrix: Transforming the Web with Transient Key Cryptography and Metashellet
+
+:: When we figured out 
 
 :: Emphasize both TKC and Metashellet
 
@@ -99,3 +100,17 @@ Just let user use plain http to send message, retrieve files to and fro?
 
 Interface is another layer?
 
+
+PhosMatrix, as next generation cloud? Emphasize. 
+
+The term "metashellet" is a contraction of "metaprogramming", "shell" and -let (a very tiny stack machine shell in footprint, equivalent to around 50 lines of JavaScript code).
+
+Application programming interface for graphical user interface has come a long way since the days of X Window applications being written in good old C programming language. 
+
+We wish to highlight PostScript, an important predecessor in the family of stack machine programming languages, as a very successful example of controlling GUI stack machine style programming language. 
+
+Another reason PostScript is mentioned is that we are naming our programming language Phoscript, paying tribute to this predecessor as well as JavaScript.
+
+Show Phoscript simplifying React, HTML etc?
+
+Use Jitsi Meet as universal interface?
