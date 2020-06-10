@@ -108,3 +108,47 @@ Another reason PostScript is mentioned is that we are naming our programming lan
 Show Phoscript simplifying React, HTML etc?
 
 Use Jitsi Meet as universal interface?
+
+
+PhosMatrix, as next generation cloud? Emphasize. 
+
+The term "metashellet" is a contraction of "metaprogramming", "shell" and -let (a very tiny stack machine shell in footprint, equivalent to around 50 lines of JavaScript code).
+
+Application programming interface for graphical user interface has come a long way since the days of X Window applications being written in good old C programming language. 
+
+We wish to highlight PostScript, an important predecessor in the family of stack machine programming languages, as a very successful example of controlling GUI stack machine style programming language. 
+
+Another reason PostScript is mentioned is that we are naming our programming language Phoscript, paying tribute to this predecessor as well as JavaScript.
+
+Show Phoscript simplifying React, HTML etc?
+
+Use Jitsi Meet as universal interface?
+
+3. Rethinking the role of user, programmer, ownership of device. Hence Man Machine Matrix. 
+
+Conventional: User sends data to server! predefined program on server processes data.
+
+MMM: User sends data and commands to server(s). Server makes decision to execute or modify the commands, besides processing the incoming data with predefined program.
+
+Simulate real world: human programmers write programs. Programs are executed by servers. Results are evaluated commercially. Has financially rewards or losses.
+
+There are many issues. Most important is leveling class struggle. Trekonomics. Focus on this. Although Matrix movie is pessimistic. 
+
+Unify all platforms, e commerce, online games, etc. 3D web = Matrix.
+
+Live party mix as example. With PhosPay tipping.
+
+PhosMatrix should be equipped with gesture to commands module, so that person being shot can disable recording using gestures. 
+
+Focus on:
+
+1. New way of implementing social network post. Root post is hosted at? Comments are stored locally? Only when requested, comments will be retrieved from individual device and delivered to viewers device. Deliver to viewer is distributed, no other device will have complete copy of all comments. Post URI and comment URI are separated from storage.
+
+Link this practical step to future goals of Trekonomics?
+
+2. Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
+
+
+
+
+ 
