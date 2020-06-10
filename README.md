@@ -1,4 +1,4 @@
-# PhosMatrix
+# PhosMatrix: the Next Generation Web?
 
 - From World Wide Web to Man Machine Matrix: Transforming the Web with Transient Key Cryptography and Metashellet
 
@@ -10,13 +10,13 @@ If we are asked to name one technology that completely change the way we deal wi
 
 Yet, the web is built with one of the oldest and perhaps outdated technology from the Unix era, the user ID authentication system.
 
-With the popularity of Cryptocurrencies, transient key cryptography is now gaining more attention as an alternative to the asymmetric cryptography underlying the Unix User ID authentication system.
+With the popularity of Cryptocurrencies, transient key cryptography is now gaining more attention as an alternative to the symmetric cryptography underlying the Unix User ID authentication system.
 
 With TKC, we can build a new Man Machine Matrix, MMM, as a pun to the outdated World Wide Web.
 
 However, as we shall demonstrate later in this article, MMM is more than just a pun to WWW, with significant and practical breakthroughs. 
 
-Conventional app restricts user interactions to features and services predefined by code. MMM liberates that. Every user is now a programmer, much like the human in Matrix the film series. 
+- Conventional app restricts user interactions to features and services predefined by code. MMM liberates that. Every user is now a programmer, much like the human in Matrix the film series. 
 
 We call our implementation of MMM PhosMatrix.
 
@@ -34,7 +34,7 @@ In the conventional software development models, the server and client for the a
 
 TKC allows the server and client software to be broken up, liberated from the UI and user ID authentication, thus making the UI a thin wrapper to interface with low level, tried and tested, bread and butter tools and libraries such as ffmpeg.
 
-Yes. You hear it right. 
+_Yes. You hear it right._
 
 PhosMatrix will allow the good old ffmpeg to be used as the back end of a live streaming software, with a thin layer of UI. 
 
@@ -42,7 +42,7 @@ Using the old web and Unix User ID authentication conventions, a web server inte
 
 With TKC, a user may execute a script, sending commands to a server, and receive the results as a json string or binary file.
 
-The crucial difference between a PhosMatrix app vs. a conventional web app arises from the need of a user to login when using a conventional web app. Since the conventional web app is vertically integrated, the functionalities are designed and restricted based on the user's role.
+The crucial difference between a PhosMatrix app vs. a conventional web app is the need of a user to login when using a conventional web app. Since the conventional web app is vertically integrated (modules within the app depend on each other in a vertical manner, from high level modules (e.g. GUI) to low level modules audio mixing, delivery, playback, user authentication etc.) , the functionalities are designed and restricted based on the user's role.
 
 In PhosMatrix however, since authentication is achieved using TKC, a client can interact with a server in a much more unrestricted manner, making its design more flexible.
 
@@ -81,11 +81,6 @@ Scheme C is CLI.
 
 Conventional GUI has no programming interface -- Phoshell reconciles both.
 
-
-
-
-
-
 How to share file?
 
 User ID is a temporary nickname derived from chain of public keys.
@@ -99,7 +94,6 @@ User download video files, edit and mix audio, output to video files. Share file
 Just let user use plain http to send message, retrieve files to and fro?
 
 Interface is another layer?
-
 
 PhosMatrix, as next generation cloud? Emphasize. 
 
