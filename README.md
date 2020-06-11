@@ -49,6 +49,14 @@ How? When? To realize these goals?
 
 Finally, need one paragraph / sentence to capture the grand vision of Man Machine Matrix.
 
+Years ago, the now-still-legendary-though-defunct Sun Microsystems "the network is the computer".
+
+ John Gage, chief scientist and master geek at Sun Microsystems, coined the phrase, "The network is the computer." 
+
+https://www.networkcomputing.com/cloud-infrastructure/network-computer-again
+
+In restrospect, from the perspectives of PhosMatrix, we can see what went wrong.
+
 Trekonomics? Explain at the end.
 
 PhosMatrix  &mdash; the Matrix of Light &mdash; is the hope, the solution.
