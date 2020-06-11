@@ -29,6 +29,18 @@ On the other hand, due to the availability of micropayments on mobile devices in
 
 While it may be cardinal sins to admire the superiority of China's socialism, no one seems to be able to propose a solution for online tipping outside China, which we shall elaborate in this article.
 
+Big Picture:
+
+1. Use Jitsi Meet as universal interface?
+2. online tipping: PhosPay
+3. distributed storage of social network data: New way of implementing social network post. Root post is hosted at? Comments are stored locally? Only when requested, comments will be retrieved from individual device and delivered to viewers device. Deliver to viewer is distributed, no other device will have complete copy of all comments. Post URI and comment URI are separated from storage.
+4. live code, Earn Money As You Learn
+6. Live Mix Streaming.  Generic PhosMatrix app, download and share YouTube videos. Like torrents.
+
+
+- 3.2 Show Phoscript simplifying React, HTML etc?
+- 3.3 Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
+- Focus on: Schedule
 
 
 PhosMatrix: PhosPay tipping to anyone.
