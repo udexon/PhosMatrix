@@ -20,6 +20,9 @@ However, as we shall demonstrate later in this article, MMM is more than just a 
 
 We call our implementation of MMM PhosMatrix.
 
+
+## PhosMatrix: DJ Live Stream
+
 To illustrate the practical significance of MMM or PhosMatrix, consider a DJ who wish to mix two or more audio sources from the Internet and stream it live to his (her) listeners online.
 
 With the conventional Unix style user ID authentication system, someone would have to build a new website with full audio mixing and streaming capabilities, together with a full fledged user ID authentication system. Website functionalities such as the user ID authentication system is actually the low cost part of the business. The expensive part is actually the time and effort required to build up the user base.
@@ -73,7 +76,7 @@ This has become the mainstream practice that no one seems to question. 
 By comparing the development effort required for scheme C and scheme A, is it possible that scheme B can achieve the best of both worlds?
 
 
-# GUI Factors: Solutions from Metashellet
+## GUI Factors: Solutions from Metashellet
 
 Scheme A is GUI oriented.
 
@@ -95,7 +98,10 @@ Just let user use plain http to send message, retrieve files to and fro?
 
 Interface is another layer?
 
-PhosMatrix, as next generation cloud? Emphasize. 
+PhosMatrix, as next generation cloud? Emphasize.
+
+
+### Definition: Metashellet
 
 The term "metashellet" is a contraction of "metaprogramming", "shell" and -let (a very tiny stack machine shell in footprint, equivalent to around 50 lines of JavaScript code).
 
@@ -109,7 +115,6 @@ Show Phoscript simplifying React, HTML etc?
 
 Use Jitsi Meet as universal interface?
 
-
 PhosMatrix, as next generation cloud? Emphasize. 
 
 The term "metashellet" is a contraction of "metaprogramming", "shell" and -let (a very tiny stack machine shell in footprint, equivalent to around 50 lines of JavaScript code).
@@ -120,11 +125,9 @@ We wish to highlight PostScript, an important predecessor in the family of stack
 
 Another reason PostScript is mentioned is that we are naming our programming language Phoscript, paying tribute to this predecessor as well as JavaScript.
 
-Show Phoscript simplifying React, HTML etc?
 
-Use Jitsi Meet as universal interface?
 
-3. Rethinking the role of user, programmer, ownership of device. Hence Man Machine Matrix. 
+## 3. Rethinking the role of user, programmer, ownership of device. Hence Man Machine Matrix. 
 
 Conventional: User sends data to server! predefined program on server processes data.
 
@@ -140,16 +143,20 @@ Live party mix as example. With PhosPay tipping.
 
 PhosMatrix should be equipped with gesture to commands module, so that person being shot can disable recording using gestures. 
 
-Focus on:
+- 3.2 Show Phoscript simplifying React, HTML etc?
 
-2. Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
+- 3.3 Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
+
+- 3.4 Use Jitsi Meet as universal interface?
+
+- Focus on:
+
 
 4. Schedule
 
 a. Generic PhosMatrix app, download and share YouTube videos. Like torrents?
 
 b. PhosPay
-
 
 c. New way of implementing social network post. Root post is hosted at? Comments are stored locally? Only when requested, comments will be retrieved from individual device and delivered to viewers device. Deliver to viewer is distributed, no other device will have complete copy of all comments. Post URI and comment URI are separated from storage.
 
