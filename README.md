@@ -21,6 +21,8 @@ We call our implementation of MMM PhosMatrix, in conjunction with our other prod
 
 :: Explain benefits in simple terms readers can understand?
 
+### Benefits of Man Machine Matrix
+
 To illustrate the benefits that our solution can bring, consider the following scenarios:
 
 - Although we do not have first hand data on the income of social media "influencers", we believe only a small percentage, perhaps less than 5%, e.g. those Instagram personalities with >100K followers, would be able to get a contract.
