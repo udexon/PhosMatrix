@@ -17,18 +17,15 @@ The solution, we believe, lies in two not too obscure but overlooked technologie
 
 :: Explain benefits in simple terms readers can understand?
 
+To illustrate the benefits that our solution can bring, consider the following scenarios:
 
-Make money per line of code? Per photo? Per post? Per second of video?
+- Although we do not have first hand data on the income of social media "influencers", we believe only a small percentage, perhaps less than 5%, e.g. those Instagram personalities with >100K followers, would be able to get a contract.
 
-List existing cases for the above. Who can make money? How?
+- On the other hand, due to the availability of micropayments on mobile devices in China, online tipping has become a routine features in China, generating income as little as ¥1 for literally millions of users.
 
-Existing: only million follower Instagram babes can get contract.
+- While it may be cardinal sins to admire the superiority of China's socialism, no one seems to be able to propose a solution for online tipping outside China, which we shall elaborate in this article.
 
-Although we do not have first hand data on the income of social media "influencers", we believe only a small percentage, perhaps less than 5%, e.g. those Instagram personalities with >100K followers, would be able to get a contract.
 
-On the other hand, due to the availability of micropayments on mobile devices in China, online tipping has become a routine features in China, generating income as little as ¥1 for literally millions of users.
-
-While it may be cardinal sins to admire the superiority of China's socialism, no one seems to be able to propose a solution for online tipping outside China, which we shall elaborate in this article.
 
 Big Picture:
 
@@ -38,10 +35,15 @@ Big Picture:
 4. live code, Earn Money As You Learn
 6. Live Mix Streaming.  Generic PhosMatrix app, download and share YouTube videos. Like torrents.
 
-
 - 3.2 Show Phoscript simplifying React, HTML etc?
 - 3.3 Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
 - Focus on: Schedule
+
+Make money per line of code? Per photo? Per post? Per second of video?
+
+List existing cases for the above. Who can make money? How?
+
+Existing: only million follower Instagram babes can get contract.
 
 
 PhosMatrix: PhosPay tipping to anyone.
