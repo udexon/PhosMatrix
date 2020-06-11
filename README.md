@@ -18,6 +18,10 @@ However, as we shall demonstrate later in this article, MMM is more than just a 
 
 - Conventional app restricts user interactions to features and services predefined by code. MMM liberates that. Every user is now a programmer, much like the human in Matrix the film series. 
 
+From cloud and web to Matrix -- WE, the Users, are important actors. (TRON)
+
+Explain class struggle and political significance of Matrix, early in the article, then explain examples of Matrix.
+
 We call our implementation of MMM PhosMatrix.
 
 
