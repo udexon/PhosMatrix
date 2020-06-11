@@ -27,6 +27,8 @@ Although we do not have first hand data on the income of social media "influence
 
 On the other hand, due to the availability of micropayments on mobile devices in China, online tipping has become a routine features in China, generating income as little as ¥1 for literally millions of users.
 
+While it may be cardinal sins to admire the superiority of China's socialism, no one seems to be able to propose a solution for online tipping outside China, which we shall elaborate in this article.
+
 
 
 PhosMatrix: PhosPay tipping to anyone.
