@@ -10,9 +10,10 @@ If we are asked to name one technology that completely change the way we deal wi
 
 :: Explain class struggle and political significance of Matrix, early in the article, then explain examples of Matrix.
 
-The Users are rendered as providers of personal information that is being exploited by the MAGAF cartel (Microsoft Apple Google Amazon Facebook) with no end in sight.
+Unfortunately, after several decaedes of experimentation, the Web has become a corporate playground where
+the Users are rendered as providers of personal information that is being exploited by the MAGAF cartel (Microsoft Apple Google Amazon Facebook) with no end in sight.
 
-The solution, we believe, lies in two not too obscure but overlooked technologies: transient key cryptography and stack machine shell.
+The solution, we believe, lies in two not too obscure but overlooked technologies: ___transient key cryptography___ and ___stack machine shell___.
 
 :: Explain benefits in simple terms readers can understand?
 
