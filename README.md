@@ -57,7 +57,7 @@ https://www.networkcomputing.com/cloud-infrastructure/network-computer-again
 
 In restrospect, from the perspectives of PhosMatrix, we can see what went wrong.
 
-Metashellet unleash the full potential of the ubiquitous shell. Computers are literally activated by "words", in Forth sense, by the Users, in Tron sense. "Computer, activate." (movie scene?)
+Metashellet unleash the full potential of the ubiquitous shell. Computers are literally activated by "words", in Forth sense, by the Users, in Tron sense. "Computer, activate." (movie scene?) Literally building the matrix, one word at a time.
 
 TKC eliminates the asymmetric relationships between user owned devices and corporate owned devices, essentially realizing Communism in computer networks.
 
