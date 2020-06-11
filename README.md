@@ -23,6 +23,12 @@ List existing cases for the above. Who can make money? How?
 
 Existing: only million follower Instagram babes can get contract.
 
+Although we do not have first hand data on the income of social media "influencers", we believe only a small percentage, perhaps less than 5%, e.g. those Instagram personalities with >100K followers, would be able to get a contract.
+
+On the other hand, due to the availability of micropayments on mobile devices in China, online tipping has become a routine features in China, generating income as little as ¥1 for literally millions of users.
+
+
+
 PhosMatrix: PhosPay tipping to anyone.
 
 How? When? To realize these goals?
