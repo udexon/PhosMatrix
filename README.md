@@ -17,6 +17,8 @@ The solution, we believe, lies in two not too obscure but overlooked technologie
 
 To highlight the elevation of user's ability in controlling his or her own information using our proposed solution, we call it "Man Machine Matrix" (MMM), as a pun to "World Wide Web". MMM simply means "a matrix made up of men and machine".
 
+We call our implementation of MMM PhosMatrix, in conjunction with our other products with the Phos prefix.
+
 :: Explain benefits in simple terms readers can understand?
 
 To illustrate the benefits that our solution can bring, consider the following scenarios:
@@ -92,7 +94,7 @@ However, as we shall demonstrate later in this article, MMM is more than just a 
 From cloud and web to Matrix -- WE, the Users, are important actors. (TRON)
 
 
-We call our implementation of MMM PhosMatrix.
+
 
 
 ## PhosMatrix: DJ Live Stream
