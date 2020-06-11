@@ -12,6 +12,24 @@ If we are asked to name one technology that completely change the way we deal wi
 
 The Users are rendered as providers of personal information that is being exploited by the MAGAF cartel (Microsoft Apple Google Amazon Facebook) with no end in sight.
 
+The solution, we believe, lies in two not too obscure but overlooked technologies: transient key cryptography and stack machine shell.
+
+:: Explain benefits in simple terms readers can understand?
+
+
+Make money per line of code? Per photo? Per post? Per second of video?
+
+List existing cases for the above. Who can make money? How?
+
+Existing: only million follower Instagram babes can get contract.
+
+PhosMatrix: PhosPay tipping to anyone.
+
+How? When? To realize these goals?
+
+
+Trekonomics? Explain at the end.
+
 PhosMatrix  &mdash; the Matrix of Light &mdash; is the hope, the solution.
 
 Yet, the web is built with one of the oldest and perhaps outdated technology from the Unix era, the user ID authentication system.
