@@ -42,6 +42,8 @@ What are the other aspects of MMM that can make huge impact on computing within 
 
 1. Use Jitsi Meet as universal interface?
 
+Phoshell PhosIDE is first step. Next step is implement TKC using Phoshell.
+
 https://github.com/udexon/Phoshell/blob/master/PhosIDE_Part_III.md
 
 2. online tipping: PhosPay
