@@ -47,6 +47,7 @@ PhosMatrix: PhosPay tipping to anyone.
 
 How? When? To realize these goals?
 
+Finally, need one paragraph / sentence to capture the grand vision of Man Machine Matrix.
 
 Trekonomics? Explain at the end.
 
