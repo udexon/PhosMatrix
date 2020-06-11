@@ -25,7 +25,9 @@ To illustrate the benefits that our solution can bring, consider the following s
 
 - While it may be cardinal sins to admire the superiority of China's socialism, no one seems to be able to propose a solution for online tipping outside China, which we shall elaborate in this article.
 
+Although we do not have the statistics concerning online tipping in China, if we assume that with PhosMatrix, we can achieve 25% of China's volume in 5 years, at 5% per annum, that would be the biggest unicorn start up business in recent years.
 
+Yet this is only the beginning of a brave new world called Man Machine Matrix.
 
 Big Picture:
 
