@@ -8,6 +8,12 @@
 
 If we are asked to name one technology that completely change the way we deal with information, that would be the World Wide Web.
 
+:: Explain class struggle and political significance of Matrix, early in the article, then explain examples of Matrix.
+
+The Users are rendered as providers of personal information that is being exploited by the MAGAF cartel (Microsoft Apple Google Amazon Facebook) with no end in sight.
+
+PhosMatrix  &mdash; the Matrix of Light &mdash; is the hope, the solution.
+
 Yet, the web is built with one of the oldest and perhaps outdated technology from the Unix era, the user ID authentication system.
 
 With the popularity of Cryptocurrencies, transient key cryptography is now gaining more attention as an alternative to the symmetric cryptography underlying the Unix User ID authentication system.
@@ -20,7 +26,6 @@ However, as we shall demonstrate later in this article, MMM is more than just a 
 
 From cloud and web to Matrix -- WE, the Users, are important actors. (TRON)
 
-Explain class struggle and political significance of Matrix, early in the article, then explain examples of Matrix.
 
 We call our implementation of MMM PhosMatrix.
 
