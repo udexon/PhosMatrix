@@ -38,7 +38,11 @@ Yet this is only the beginning of a brave new world called Man Machine Matrix.
 
 ## Man Machine Matrix &mdash; The Big Picture
 
+What are the other aspects of MMM that can make huge impact on computing within the foreseeable future?
+
 1. Use Jitsi Meet as universal interface?
+
+https://github.com/udexon/Phoshell/blob/master/PhosIDE_Part_III.md
 
 2. online tipping: PhosPay
 
