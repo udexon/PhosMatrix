@@ -142,13 +142,30 @@ PhosMatrix should be equipped with gesture to commands module, so that person be
 
 Focus on:
 
-1. New way of implementing social network post. Root post is hosted at? Comments are stored locally? Only when requested, comments will be retrieved from individual device and delivered to viewers device. Deliver to viewer is distributed, no other device will have complete copy of all comments. Post URI and comment URI are separated from storage.
+2. Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
+
+4. Schedule
+
+a. Generic PhosMatrix app, download and share YouTube videos. Like torrents?
+
+b. PhosPay
+
+
+c. New way of implementing social network post. Root post is hosted at? Comments are stored locally? Only when requested, comments will be retrieved from individual device and delivered to viewers device. Deliver to viewer is distributed, no other device will have complete copy of all comments. Post URI and comment URI are separated from storage.
 
 Link this practical step to future goals of Trekonomics?
 
-2. Explain PhosPay? PhosPay is key of linking practical step to future goal of Trekonomics. 
+
+List other apps. Then arrange in schedule. 
 
 
+Always use numbered list. Easiest to arrange ideas.
 
+
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 
  
