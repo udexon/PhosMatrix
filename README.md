@@ -15,6 +15,8 @@ the Users are rendered as providers of personal information that is being exploi
 
 The solution, we believe, lies in two not too obscure but overlooked technologies: ___transient key cryptography___ and ___stack machine shell___.
 
+To highlight the elevation of user's ability in controlling his or her own information using our proposed solution, we call it "Man Machine Matrix" (MMM), as a pun to "World Wide Web". MMM simply means "a matrix made up of men and machine".
+
 :: Explain benefits in simple terms readers can understand?
 
 To illustrate the benefits that our solution can bring, consider the following scenarios:
